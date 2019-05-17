@@ -1,4 +1,4 @@
-## (GreatCode)[http://greatcode.co/] Olarak Hazırladığımız Dokümanlar
+## [GreatCode](http://greatcode.co/) Olarak Hazırladığımız Dokümanlar
 
 * Dokümanlar Türkçe olmayan kaynakların çevirisi olabilir.
 * Sıfırdan doküman hazırlanabilir.
