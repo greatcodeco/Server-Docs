@@ -1,4 +1,4 @@
-## Gunicorn ve Nginx Kullanarak Ubuntu Vps Üzerine Flask Uygulama Yayınlama
+## Gunicorn ve Nginx Kullanarak Ubuntu VPS Üzerinde Flask Uygulama Yayınlama
 
 #### Gerekli Bileşenlerin Kurulumu
 
