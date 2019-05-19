@@ -119,7 +119,7 @@ Gunicorn sunucusunun uygulamamız ile etkileşime geçebilmesi için wsgi.py isi
 Açılan dosyanın içine aşağıdaki kodları yapıştıralım.
 
 ```Python
-from myproject import app
+from proje_adi import app
 
 if __name__ == "__main__":
     app.run()
