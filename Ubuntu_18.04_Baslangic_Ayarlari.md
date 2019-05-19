@@ -39,7 +39,7 @@ Artık kendi kullanıcınıza geçiş yaptınız. Artık .ssh dizini oluşturup 
 ```
 mkdir ~/.ssh
 
-chmode 700 ~/.ssh
+chmod 700 ~/.ssh
 ```
 
 .ssh dizininde *authorized_keys* dosyasını oluşturup içini doldurma vakti geldi.
