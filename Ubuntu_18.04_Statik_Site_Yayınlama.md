@@ -56,7 +56,7 @@ Açılan dosyanın içine aşağıdakileri yazın kaydedin ve çıkın.
 server {
         listen 80;
         server_name alan_adiniz www.alan_adiniz;
-        root /home/jason/www;
+        root /home/kullanici_adiniz/www;
         index index.html;
 }
 ```
