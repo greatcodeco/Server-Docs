@@ -8,7 +8,7 @@ Eğer sisteminizde Nginx kurulu değil ise Nginx'i kurmanız gerekmektedir. Aşa
 sudo apt install nginx
 ``` 
 
-Nginx'i başlatma, durdurma, yeniden başlatma gibi işlemleri gerçekleştirmemizi sağlayan komutlar aşağıdaki gibidir.
+Nginx'i başlatma, durdurma ve yeniden başlatma gibi işlemleri gerçekleştirmemizi sağlayan komutlar aşağıdaki gibidir.
 
 ```
 sudo systemctl start nginx
